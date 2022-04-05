@@ -1,5 +1,5 @@
 
-
+//agrego comentario
 
 const tablaMultiplicar = (tabla) =>{
     console.log("la tabla que elegiste es la: "+tabla+"\n");
